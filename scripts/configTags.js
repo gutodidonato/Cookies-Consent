@@ -1,4 +1,5 @@
-let gtmCode = "GTM-MHJNBK6"
+let gtmCode = "GTM-MHJNBK6";
+
 (function(w, d, s, l, i) {
     w[l] = w[l] || [];
     w[l].push({
